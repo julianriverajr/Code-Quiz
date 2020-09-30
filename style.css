@@ -1,0 +1,16 @@
+#header{
+    background-color:yellow;
+}
+#highScoresDiv{
+    background-color:pink;
+}
+#secondsLeftDiv{
+    background-color:magenta;
+}
+h1{
+    background-color: greenyellow;
+    width:100%;
+}
+h3{
+    background-color: red;
+}
